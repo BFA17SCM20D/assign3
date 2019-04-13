@@ -1,0 +1,60 @@
+.axis .domain {
+    display: none;
+  }
+
+.bar {
+    fill: rgb(29, 240, 10);
+}
+
+.bar:hover {
+    fill: brown;
+}
+
+.axis-title {
+    fill: none;
+    stroke: black;
+    stroke-width: 0.5px;
+}
+.axis {
+    font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.axis-title {
+    fill: none;
+    stroke: black;
+    stroke-width: 0.5px;
+}
+
+
+.axis--x path {
+    /*display: none;*/
+}
+
+.line {
+    fill: none; 
+    stroke: rgb(34, 113, 204);
+    stroke-width: 1.5px;
+}
+.axis {
+    font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: rgb(182, 38, 38);
+    shape-rendering: crispEdges;
+}
+
+.axis-title {
+    fill: none;
+    stroke: black;
+    stroke-width: 0.5px;
+}
